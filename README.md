@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abidar Asmaa From Morocco </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Abidar Asmaa From Morocco </h1>
 <h3 align="center">A passionate Full Stack developer from Morocco, dedicated to learning and building clean, efficient, and scalable web applications. Always motivated to grow and collaborate on meaningful projects.</h3>
 <img align="right" alt="girl Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpvaHg2cHN4YXRvemJhMmZqdXp2YTFnazVyd2Uyc2NjMmR5czJuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
