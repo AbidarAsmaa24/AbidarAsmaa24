@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Asmaa Abidar</h1>
+<h1 align="center">Hi 👋, I'm Abidar Asmaa </h1>
 <h3 align="center">
-Software Developer | Web Developer | Desktop Developer | .NET Programmer | React Programmer  
+Software Developer |  Full Stack Developer |  React  |  .NET
 <br/>
 From Morocco 🇲🇦
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="girl Coding" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpvaHg2cHN4YXRvemJhMmZqdXp2YTFnazVyd2Uyc2NjMmR5czJuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=asmaaabidar&label=Profile%20views&color=0e75b6&style=flat" alt="asmaaabidar" />
