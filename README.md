@@ -6,13 +6,13 @@
 
 
  - 💻 I’m a **Software Developer** specialized in **Web & Desktop applications**
- - 
+ 
  - 🌱 Currently improving my skills in **React & .NET**
- - 
+ 
  - 🚀 Passionate about building clean, scalable, and efficient solutions
- - 
+ 
  - 🤝 Open to collaboration on interesting and challenging projects
- - 
+ 
  - 📫 How to reach me **asmaeabidar358gmail.com**
 
 <h3 align="left">📧Connect with me:</h3>
