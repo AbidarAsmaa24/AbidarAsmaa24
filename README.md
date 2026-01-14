@@ -13,7 +13,7 @@
  
  - 🤝 Open to collaboration on interesting and challenging projects
  
- - 📫 How to reach me **asmaeabidar358gmail.com**
+ - 📫 How to reach me **asmaeabidar358@gmail.com**
 
 <h3 align="left">📧Connect with me:</h3>
 <p align="left">
