@@ -3,7 +3,10 @@
 <img align="right" alt="girl Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpvaHg2cHN4YXRvemJhMmZqdXp2YTFnazVyd2Uyc2NjMmR5czJuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbidarAsmaa24&label=Profile%20views&color=ff69b4&style=flat" alt="AbidarAsmaa24" /></p>
-
+<div align="center">
+  <img src="https://github.com/AbidarAsmaa24/AbidarAsmaa24/blob/master/github-header.gif" width="100%" />
+ </div>
+ <hr>
 
  - 💻 I’m a **Software Developer** specialized in **Web & Desktop applications**
  
